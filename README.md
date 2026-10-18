@@ -1,12 +1,12 @@
 # Hi, I'm Muhammad Awais 
 
-Frontend developer from Mirpur, Azad Kashmir. I did my BS in Computer Science from MUST Mirpur (2020–2024).
+Full Stack developer from Mirpur, Azad Kashmir. I did my BS in Computer Science from MUST Mirpur (2021–2025).
 
 These days I'm learning AI/ML and Python. I'm writing down everything I learn here: [AI-ML-Learning](https://github.com/Awais-694/AI-ML-Learning-)
 
 ## Skills
 
-Use regularly: HTML, CSS, Bootstrap, JavaScript, TypeScript, React, Next.js
+Use regularly: HTML, CSS, Bootstrap, JavaScript, TypeScript, React, MongoDb, SQL, Node.js,  Next.js.
 
 Learning: Python, Jupyter, pandas, NumPy
 
